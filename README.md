@@ -1,4 +1,4 @@
-# Blockchain App using Node.js
+# A Node.js API For Ethereum Blockchain
 
 ## Things I've learned while building this
 * Building the blockchain class with its required functionality.
@@ -22,7 +22,7 @@ Once you have the [Prerequisites](#prerequisites) covered:
 1. Clone this repository from GitHub onto your local computer.
 
 ```sh
-git clone https://github.com/AkashRajpurohit/node-blockchain.git
+git clone https://github.com/AnilNITT/Node.js-Ethereum-Blockchain.git
 ```
 
 2. Navigate into the project folder and install all of its necessary dependencies with Yarn.
@@ -40,13 +40,6 @@ truffle compile
 truffle migrate
 truffle test
 ```
-
-
-
-## Todo:
-* [ ] Prepare and publish Postman docs.
-
----
 
 ## Visit my portfolio
 [Anil Patidar](https://github.com/AnilNITT)
